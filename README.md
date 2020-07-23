@@ -25,4 +25,8 @@ Made exclusively for submissions of:
 
 <img width="633" alt="Screenshot 2020-07-21 at 11 35 22 PM" src="https://user-images.githubusercontent.com/54894091/88090259-f136ca00-cbaa-11ea-902b-94ee7bf21e5b.png">
 
+### 23 July '20
+<img width="625" alt="Screenshot 2020-07-23 at 3 22 19 PM" src="https://user-images.githubusercontent.com/54894091/88273955-96ab8400-ccf8-11ea-90c2-b9ffd54a62df.png">
+
+<img width="611" alt="Screenshot 2020-07-23 at 3 24 05 PM" src="https://user-images.githubusercontent.com/54894091/88273960-99a67480-ccf8-11ea-93e3-d9524800f485.png">
 
