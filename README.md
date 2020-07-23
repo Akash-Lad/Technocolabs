@@ -32,5 +32,7 @@ Made exclusively for submissions of:
 
 
 # Kaggle Pandas Screenshots
+<img width="514" alt="Screenshot 2020-07-23 at 10 38 25 PM" src="https://user-images.githubusercontent.com/54894091/88316356-54ecfe80-cd35-11ea-9ffe-1379529c8225.png">
+
 
 
