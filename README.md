@@ -35,5 +35,7 @@ Made exclusively for submissions of:
 ### 23 July '20
 <img width="514" alt="Screenshot 2020-07-23 at 10 38 25 PM" src="https://user-images.githubusercontent.com/54894091/88316356-54ecfe80-cd35-11ea-9ffe-1379529c8225.png">
 
-
+# Kaggle Seaborn Screenshots
+### 24 July '20
+<img width="628" alt="Screenshot 2020-07-24 at 9 59 59 PM" src="https://user-images.githubusercontent.com/54894091/88413603-11f45f00-cdf9-11ea-95ce-99dfd20a3274.png">
 
