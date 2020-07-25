@@ -43,3 +43,7 @@ Made exclusively for submissions of:
 # Kaggle Intro to SQL Screenshots
 ### 24 July '20
 <img width="543" alt="Screenshot 2020-07-24 at 11 15 36 PM" src="https://user-images.githubusercontent.com/54894091/88419978-b9768f00-ce03-11ea-9030-5cf143ba27fa.png">
+
+# Mini Project 
+### 25 July '20
+<img width="867" alt="Screenshot 2020-07-25 at 11 54 36 PM" src="https://user-images.githubusercontent.com/54894091/88463704-49830a00-ced2-11ea-9287-c04b8223d182.png">
